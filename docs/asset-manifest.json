@@ -1,23 +1,21 @@
 {
   "files": {
-    "main.css": "/belajar-reactjs/static/css/main.a617e044.chunk.css",
-    "main.js": "/belajar-reactjs/static/js/main.755fcaec.chunk.js",
-    "main.js.map": "/belajar-reactjs/static/js/main.755fcaec.chunk.js.map",
-    "runtime-main.js": "/belajar-reactjs/static/js/runtime-main.f21ec713.js",
-    "runtime-main.js.map": "/belajar-reactjs/static/js/runtime-main.f21ec713.js.map",
-    "static/js/2.22935d4e.chunk.js": "/belajar-reactjs/static/js/2.22935d4e.chunk.js",
-    "static/js/2.22935d4e.chunk.js.map": "/belajar-reactjs/static/js/2.22935d4e.chunk.js.map",
-    "static/js/3.d4e767fa.chunk.js": "/belajar-reactjs/static/js/3.d4e767fa.chunk.js",
-    "static/js/3.d4e767fa.chunk.js.map": "/belajar-reactjs/static/js/3.d4e767fa.chunk.js.map",
+    "main.js": "/belajar-reactjs/static/js/main.bf0fbf79.chunk.js",
+    "main.js.map": "/belajar-reactjs/static/js/main.bf0fbf79.chunk.js.map",
+    "runtime-main.js": "/belajar-reactjs/static/js/runtime-main.ffdd11c9.js",
+    "runtime-main.js.map": "/belajar-reactjs/static/js/runtime-main.ffdd11c9.js.map",
+    "static/js/2.1b138196.chunk.js": "/belajar-reactjs/static/js/2.1b138196.chunk.js",
+    "static/js/2.1b138196.chunk.js.map": "/belajar-reactjs/static/js/2.1b138196.chunk.js.map",
+    "static/js/3.cdbecc66.chunk.js": "/belajar-reactjs/static/js/3.cdbecc66.chunk.js",
+    "static/js/3.cdbecc66.chunk.js.map": "/belajar-reactjs/static/js/3.cdbecc66.chunk.js.map",
+    "static/js/4.605e38e3.chunk.js": "/belajar-reactjs/static/js/4.605e38e3.chunk.js",
+    "static/js/4.605e38e3.chunk.js.map": "/belajar-reactjs/static/js/4.605e38e3.chunk.js.map",
     "index.html": "/belajar-reactjs/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/belajar-reactjs/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.22935d4e.chunk.js.LICENSE.txt": "/belajar-reactjs/static/js/2.22935d4e.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/belajar-reactjs/static/media/logo.6ce24c58.svg"
+    "static/js/2.1b138196.chunk.js.LICENSE.txt": "/belajar-reactjs/static/js/2.1b138196.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f21ec713.js",
-    "static/js/2.22935d4e.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.755fcaec.chunk.js"
+    "static/js/runtime-main.ffdd11c9.js",
+    "static/js/2.1b138196.chunk.js",
+    "static/js/main.bf0fbf79.chunk.js"
   ]
 }
