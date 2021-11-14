@@ -2,7 +2,7 @@ import React, { useEffect } from 'react'
 
 function Table({ item, i, updateData }) {
     useEffect(function () {
-        console.log('item.time', item.spaceTrack.OBJECT_ID, item.time)
+        //console.log('item.time', item.spaceTrack.OBJECT_ID, item.time)
     }, [item.time, item.spaceTrack.OBJECT_ID])
 
     return (

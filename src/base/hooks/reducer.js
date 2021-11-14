@@ -2,13 +2,15 @@ export const ActionType = {
     SET_ERRORMSG: 'SET_ERRORMSG',
     CLEAR: 'CLEAR',
     SET_USER: 'SET_USER',
-    SET_IS_LOADING: 'SET_IS_LOADING'
+    SET_IS_LOADING: 'SET_IS_LOADING',
+    SET_CSRF: 'SET_CSRF'
 }
 
 export const initialData = {
     user: {},
     errorMsg: null,
-    isLoading: false
+    isLoading: false,
+    csrf: undefined
 }
 
 export const reducers = function (state, action) {
@@ -23,6 +25,9 @@ export const reducers = function (state, action) {
             return data
         case ActionType.SET_IS_LOADING:
             data.isLoading = action.data.isLoading
+            return data
+        case ActionType.SET_CSRF:
+            data.csrf = action.data.csrf
             return data
         case ActionType.CLEAR:
             return initialData
